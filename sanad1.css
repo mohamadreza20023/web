@@ -1,0 +1,14 @@
+body{
+	direction:rtl;
+}
+.a1{
+	height:250px;
+	width:100%;
+	background:blue;
+	float:right;
+}
+
+.a1 h1{
+	text-align:center;
+	font-size:40px;
+}
